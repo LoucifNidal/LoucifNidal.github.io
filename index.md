@@ -50,4 +50,4 @@ Created interactive dashboard tracking vaccination rates, case trends, and recov
 
 ---
 
-*This portfolio is built with GitHub Pages. Last updated: December 2024*
+*This portfolio is built with GitHub Pages. Last updated: December 2025*
