@@ -73,11 +73,12 @@ p { margin:0.5rem 0; line-height:1.5; }
   text-align:center;
 }
 .project img {
-  width:105%;       /* slightly bigger */
-  max-width:100%;   /* prevents overflow */
-  height:150px;
-  object-fit:cover;
-  margin-bottom:0.5rem;
+  width: 100%;
+  height: 180px;          /* slightly taller = less side crop */
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 0.75rem;
+  border-radius: 4px;
 }
 .project a { 
   color:#0FF; 
